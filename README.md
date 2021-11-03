@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my Form3 GitHub profile, this is the account I use for work relating to Form3.
+
+You can find my personal GitHub profile over at [https://github.com/josephwoodward](https://github.com/josephwoodward).
+
 <!--
 **joseph-woodward-form3/joseph-woodward-form3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
